@@ -2,9 +2,9 @@ name:                words
 version:             0.1.0.0
 github:              "asadoll/words"
 license:             BSD3
-author:              "Asad. Gharighi"
-maintainer:          "a.gharighi@gmail.com"
-copyright:           "Asad. Gharighi 2019"
+author:              Asad. Gharighi
+maintainer:          a.gharighi@gmail.com
+copyright:           BSD
 
 extra-source-files:
 - README.md
