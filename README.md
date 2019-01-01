@@ -1,0 +1,2 @@
+# words
+Simple Haskell Game
