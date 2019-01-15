@@ -23,7 +23,7 @@ getLines grid =
   let horizontal = grid
       vertical = transpose grid
       diagonal1 = diagonalize grid
-      diagonal2 = diagonalize (map reverse grid)
+      diagonal2 = diagonalize $ map reverse grid
       lines = horizontal ++ vertical ++ diagonal1 ++ diagonal2
   in lines ++ (map reverse lines)
 
